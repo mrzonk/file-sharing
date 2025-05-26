@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@cloudflare/wrangler@latest/config.schema.json",
-  "name": "nama-worker-anda",
+  "name": "file-sharing",
   "main": "server.js",
   "compatibility_date": "2024-09-23",
   "compatibility_flags": [
