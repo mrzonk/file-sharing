@@ -11,6 +11,5 @@
   },
   "site": {
     "bucket": "./dist",
-    "entry-point": "worker"
   }
 }
